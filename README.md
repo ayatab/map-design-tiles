@@ -7,6 +7,7 @@ I examined the Seattle Area, where the dataset for bike locations owned and main
 ## Screenshots of the 4 layers
 
 [Link to Github Map](https://ayatab.github.io/map-design-tiles/)
+
 [Link to Map HTML](index.html)
 
 Basemap, created via Mapbox and imported to QGIS:
