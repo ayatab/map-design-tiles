@@ -1,9 +1,3 @@
-the url to access the web map you have made.
-screenshots of the four layers (2 POINTS)
-the examined geographic area, and (2 POINTS)
-the available zoom levels of each tile set (2 POINTS), and
-brief descriptions of each tile sets (3 POINTS).
-
 # Lab 4: Map Design and Tile Generation
 
 ## Description
@@ -12,8 +6,8 @@ I examined the Seattle Area, where the dataset for bike locations owned and main
 
 ## Screenshots of the 4 layers
 
-
-[Link to Map](index.html)
+[Link to Github Map](https://ayatab.github.io/map-design-tiles/)
+[Link to Map HTML](index.html)
 
 Basemap, created via Mapbox and imported to QGIS:
 
